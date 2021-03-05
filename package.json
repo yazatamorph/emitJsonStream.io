@@ -1,0 +1,22 @@
+{
+  "name": "emitjsonstream.io",
+  "version": "0.1.0",
+  "description": "Simple helper to emit a JSON-like object as a stream with Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yazatamorph/emitJsonStream.io.git"
+  },
+  "author": "Zareen Price",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yazatamorph/emitJsonStream.io/issues"
+  },
+  "homepage": "https://github.com/yazatamorph/emitJsonStream.io#readme",
+  "dependencies": {
+    "@sap_oss/node-socketio-stream": "^1.0.2"
+  }
+}
